@@ -1,6 +1,6 @@
 canvas {
   background-color: rgb(182, 191, 230);
-  background-image: url("ground3.png");
+  background-image: url("./ground3.png");
   background-size: cover;
 }
 body {
